@@ -1,4 +1,4 @@
-# Smartglasses Clone
+# Smartglasses Simulator
 - A simulator to show the output of smart glasses
 - install dependencies with `npm install`
 - run the code with `npm start`
