@@ -11,5 +11,5 @@ A simulator to show the output of smart glasses via REST /websocket API (only sh
 ## Installation
 - Install dependencies with `npm install`
 - Run the code with `npm start`
-- Open the browser at [http://localhost:3000/](http://localhost:3000/)
+- Open the browser at [http://localhost:7000/](http://localhost:7000/)
 
