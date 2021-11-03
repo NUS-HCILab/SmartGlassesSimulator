@@ -1,5 +1,7 @@
 # Smartglasses Simulator
 A simulator to show the output of smart glasses via REST /websocket API (only show the html outputs)
+- Listen the socket communication and render data as a display (see `public/javascripts/bladeListener.js` for IP:PORT)
+- Optimized for VuzixBlade smart glasses, but easily modifiable for other smart glasses (see `public/javascripts/bladeRenderer.js`) 
 
 ## Contact person
 - [Debjyoti Ghosh](https://www.nus-hci.org/team/debjyoti-ghosh/)
